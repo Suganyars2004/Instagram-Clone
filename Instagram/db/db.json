@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "username": "travel_with_anna",
+        "profilePic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "caption": "Exploring the beauty of the mountains 🏔️ #Nature #Adventure",
+      "likes": 245,
+      "comments": [
+        {
+          "username": "john_doe",
+          "comment": "Wow! This looks amazing 😍"
+        },
+        {
+          "username": "alex_travels",
+          "comment": "Where is this place? ❤️"
+        }
+      ],
+      "createdAt": "2025-09-23T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "username": "foodie_bites",
+        "profilePic": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+      "caption": "Homemade pasta night 🍝 #Foodie #Yum",
+      "likes": 512,
+      "comments": [
+        {
+          "username": "sarah_cooks",
+          "comment": "This looks so delicious! 🤤"
+        },
+        {
+          "username": "mike_eats",
+          "comment": "Save me some please!"
+        }
+      ],
+      "createdAt": "2025-09-20T18:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "username": "fit_lifestyle",
+        "profilePic": "https://randomuser.me/api/portraits/women/21.jpg"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1",
+      "caption": "Early morning workout grind 💪 #Fitness #Motivation",
+      "likes": 329,
+      "comments": [
+        {
+          "username": "health_guru",
+          "comment": "Killing it! 🔥"
+        },
+        {
+          "username": "fitfan",
+          "comment": "Great dedication! Keep going 💯"
+        }
+      ],
+      "createdAt": "2025-09-18T05:50:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "username": "city_clicks",
+        "profilePic": "https://randomuser.me/api/portraits/men/19.jpg"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+      "caption": "City lights and busy nights 🌆 #UrbanLife #Photography",
+      "likes": 154,
+      "comments": [
+        {
+          "username": "urban_explorer",
+          "comment": "This photo is stunning!"
+        }
+      ],
+      "createdAt": "2025-09-15T20:10:00Z"
+    }
+  ]
+}
