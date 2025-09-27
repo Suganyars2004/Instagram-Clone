@@ -80,5 +80,65 @@
       ],
       "createdAt": "2025-09-15T20:10:00Z"
     }
+  ],
+  "profile":{
+    "id":10,
+    "username": "travel_with_anna",
+    "profilePic": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  "suggestions":[
+    {
+     "id": 1,
+        "username": "travel_with_anna",
+        "profilePic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+    {"id": 2,
+        "username": "foodie_bites",
+        "profilePic": "https://randomuser.me/api/portraits/men/32.jpg"
+      }
+    ,{
+      "id": 3,
+        "username": "fit_lifestyle",
+        "profilePic": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {   "id": 4,
+        "username": "city_clicks",
+        "profilePic": "https://randomuser.me/api/portraits/men/19.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "user": {
+        "username": "travel_with_anna",
+        "profilePic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "imageUrl": "/src/assets/image3.jpeg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "username": "foodie_bites",
+        "profilePic": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      "imageUrl": "/src/assets/image3.jpeg"
+      
+    },
+    {
+      "id": 3,
+      "user": {
+        "username": "fit_lifestyle",
+        "profilePic": "https://randomuser.me/api/portraits/women/21.jpg"
+      },
+      "imageUrl": "/src/assets/image2.jpeg"
+    },
+    {
+      "id": 4,
+      "user": {
+        "username": "city_clicks",
+        "profilePic": "https://randomuser.me/api/portraits/men/19.jpg"
+      },
+      "imageUrl": "/src/assets/image1.jpeg"
+    }
   ]
 }
